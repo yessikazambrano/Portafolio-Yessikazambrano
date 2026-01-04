@@ -5,6 +5,11 @@ Este repositorio contiene el código fuente y recursos utilizados para construir
 
 ---
 
+## 🚀 Accede aquí
+👉 [Visita mi portafolio completo](https://yessikazambrano.github.io/Portafolio-Yessikazambrano/)
+
+---
+
 ## 🚀 Tecnologías utilizadas
 - **HTML / CSS** – estructura y estilo del sitio  
 - **JavaScript** – interactividad y dinamismo  
