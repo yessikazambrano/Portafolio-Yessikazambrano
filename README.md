@@ -9,7 +9,7 @@ Este repositorio contiene el código fuente y recursos utilizados para construir
 - **HTML / CSS** – estructura y estilo del sitio  
 - **JavaScript** – interactividad y dinamismo  
 - **Bootstrap** – diseño responsivo y moderno  
-- **GitHub Pages** – despliegue del portafolio  
+- **GitHub Pages** – despliegue del portafolio   
 
 ---
 
