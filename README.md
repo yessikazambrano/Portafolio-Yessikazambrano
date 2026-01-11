@@ -6,7 +6,7 @@ Este repositorio contiene el código fuente y recursos utilizados para construir
 ---
 
 ## 🚀 Accede aquí
-👉 [Visita mi portafolio completo]([https://yessikazambrano.github.io/Portafolio-Yessikazambrano/](https://github.com/yessikazambrano/Portafolio-Yessikazambrano/blob/main/index.html))
+👉 [Visita mi portafolio completo](https://github.com/yessikazambrano/Portafolio-Yessikazambrano/blob/main/index.html)
 
 ---
 
